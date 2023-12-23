@@ -1,0 +1,123 @@
+PANEL 1:
+
+seed: 36143308
+guidance scale: 11
+style: sai-line art
+
+Prompt:
+
+A man from behind (tom holland, 0.5)  (ryan reinolds, 0.5), wearing a suit, with a briefcase exiting a very busy airport Sunset. old comic style, b/w
+
+Negative:
+
+Colors, Tie, ugly, anime, necktie, many planes
+
+
+ALTERNATIVES:
+
+A man (tom holland) from behind wearing suit, exiting from a busy airport in a white suit. Facing san Francisco, Briefcase, Golden gate in the background, one plane above, Sunset, old comic style, b/w
+
+(and many others, with small variations)
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+PANEL 2:
+
+seed: 36143308
+guidance scale: 9
+style: sai-line art
+
+Prompt:
+
+Cityscape of San Francisco, showcasing its iconic symbols, full moon, palm trees, old comic style, b/w
+
+Negative:
+
+Saturated colors, old, futurisitic, multiple moons
+
+ALTERNATIVES:
+
+Cityscape of San Francisco, showcasing its futuristic design and technological marvels. expansive, cinematic lighting, old comic style, b/w
+
+(and many others, with small variations)
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+PANEL 3:
+
+seed: 36143308
+guidance scale: 9.5
+style: sai-line art
+
+Prompt:
+
+Office headquartes a tech Company, "M" logo. A man from behind in front of it. big Building "Metishpere". San francisco vibe  old comic style 
+
+Negative:
+
+Saturated colors, old, interior view, no logo
+
+
+ALTERNATIVES:
+
+Cityscape of San Francisco, showcasing its futuristic design and technological marvels. expansive, cinematic lighting, old comic style, b/w
+
+Huge tech company building sphere,  "M" big logo in front. A crowd in front. A man from behind (tom holland, 0.5)  (ryan reinolds, 0.5) in front of it. Morning light, old comic style
+
+(and many others, with small variations)
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+PANEL 4:
+
+seed: 36143308
+guidance scale: 7.5
+style: sai-line art
+
+Prompt:
+
+Huge AI Machine in the foreground in a room many scientist with coat around. old comic style colored
+
+Negative:
+
+Saturated colors, ugly, anime, b/w, few people
+
+ALTERNATIVES:
+
+Big Server in a room full of computer scientist with coat around. comic style, colored
+
+or 
+
+Huge AI Machine in the foreground in a room many scientist with coat around. comic style
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+PANEL 5:
+
+seed: 36143308
+guidance scale: 7
+style: sai-line art
+
+Prompt:
+
+A man (tom holland, 0.5)  (ryan reinolds, 0.5) in a lab coat working at a desk full of papers. Crowded office background. espansive, old comic style, colored
+
+
+Negative:
+
+Saturated colors, ugly, anime, tie, necktie, glasses, doctor,medicine
+
+
+ALTERNATIVES:
+
+A scientist (tom holland, 0.5)  (ryan reinolds, 0.5) in a lab coat working at a desk full of papers. Crowded office background. espansive, old comic style, black/white
+
+
+
+
+
+
+
+
+
