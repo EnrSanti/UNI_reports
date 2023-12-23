@@ -1,0 +1,103 @@
+PANEL 1:
+
+seed: 44246031
+guidance scale: 8.5
+style: sai-line art
+
+
+Prompt:
+
+Basement corridor with 6 sci-fi doors. 	 four Hyper-realistic people (two men and two women with long hair) in a lab coat, white hair walking in the hall.
+Cinematic lightning, Comic style.
+
+
+Negative:
+
+faces, black hair, weird legs, lit environment, many people
+
+
+ALTERNATIVES:
+
+hyperrealistic back view of FOUR engineers in a lab coat in a hall full of doors (with danger signs) on the sides. Two men with white hair, and two women.
+Low cinematic lightning, Old Comic style. Colored.
+
+Old Comic style.
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+
+PANEL 2:
+
+seed: 37814740
+guidance scale: 8
+style: sai-line art
+
+Prompt:
+
+Hyper-realistic man with glasses (half steve carell half michael gross) and woman without glasses (half jennifer lawrence half Margaret Hamilton), both in a lab coat opening a door. Control room. 
+Old comic style.
+
+Negative:
+
+doctor, black hair, mustaches, smiling faces, woman with glasses
+
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 3:
+
+seed: 55696202
+guidance scale: 
+style: sai-line art
+
+Prompt:
+
+Basement corridor with 6 sci-fi doors. Back view two Hyper-realistic people a man and a woman in a lab coat, white hair. Alarm going off, red light on the wall.
+Cinematic lightning, Comic style.
+
+Negative:
+
+faces, black hair, weird legs, b/w
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 4:
+
+seed: 45253164
+guidance scale: 8
+style: sai-line art
+
+
+Prompt:
+
+Hyperrealsitc 2 people. A man with glasses (Fred Ward 0.7, Bryan Cranston 0.3) and woman white hair (samantha cristoforetti 0.5,  Rhona Mitra 0.5) wearing a lab coat, running into a control room. Red light alarm. Comic style. Espansive.
+
+Negative:
+
+doctor, mustaches, smiling faces, 3 people
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 5:
+
+seed: 45253164
+guidance scale: 8
+style: sai-line art
+
+
+Prompt:
+
+Hyper-realistic shock man with glasses (half steve carell half michael gross) and woman scared no glasses (half jennifer lawrence half Margaret Hamilton), both in a lab coat. Facing of a metal shutter in the background. 
+Comic style.
+
+Negative:
+
+mustaches, smiling faces, 3 people, doctor, woman with glasses
+
+

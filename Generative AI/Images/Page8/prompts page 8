@@ -1,0 +1,51 @@
+PANEL 1:
+
+seed: lost
+guidance scale: 12
+style: sai-line art
+
+
+Prompt:
+
+Hyper-realistic zoom of a hand, lab coat sleeve, turning to the right a half inserted red key in a detailed control panel with many buttons. dark Control room background. Old comic style. low illumination
+Negative:
+
+Negative:
+
+saturated colors, b/w, weird hand, hanged key, no key
+
+ALTERNATIVES:
+
+Hyper-realistic hand turning a red switch in a control panel. Control room background. Old comic style.
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+PANEL 3:
+seed: 44246031
+guidance scale: 10.5
+style: sai-line art
+
+Prompt:
+
+Basement corridor with 6 sci-fi doors. Back view two Hyper-realistic people a man and a woman in a lab coat, white hair, facing a door. Cinematic lightning, Comic style.
+
+Negative
+
+faces, black hair, weird legs, b/w, three people
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 3:
+seed: 37814740
+guidance scale: 8
+style: sai-line art
+
+Prompt:
+
+Hyperrealsitc two afraid people. A man with glasses (Fred Ward 0.7, Bryan Cranston 0.3) and woman white hair (samantha cristoforetti 0.5,  Rhona Mitra 0.5) wearing a lab coat, in front of sci-fi door. Comic style. Espansive.
+
+Negative
+smiling faces, woman with glasses
+
+(Tried, but failed to generate the characters speaking, i.e. open mouths)
