@@ -1,0 +1,72 @@
+PANEL 1:
+
+seed: 44246031
+guidance scale: 8.5
+style: sai-line art
+
+
+Prompt:
+
+Basement corridor with 6 sci-fi doors. Hyper-realistic back view of two people (one man and one woman with long hair) in a lab coat, white hair walking in the hall.
+Cinematic lightning, Comic style.
+
+Negative:
+faces, black hair, weird legs, lit environment, many people
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 2:
+
+seed: LOST
+guidance scale: 8.5
+style: sai-line art
+
+
+Prompt:
+
+psychedelic small screen on a wall with a creepy smile (dark green) on it. Dark saturated background full of old computer junk, basement. Old Comic style. Horror. dystopian.
+
+
+Negative:
+
+colored, many screens, keyboard
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 3:
+
+seed: 71306886
+guidance scale: 8
+style: sai-line art
+
+
+Prompt:
+
+Hyperrealsitc two people. A man with glasses (Fred Ward 0.6, Bryan Cranston 0.4) and woman white hair (samantha cristoforetti 0.5,  Rhona Mitra 0.5) wearing a long lab coat. Basement narrow old stairs in the foregound. Comic style. dramatic shot. Dark, saturated
+
+Negative:
+
+smiling faces, many people, woman with glasses
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 4:
+
+seed: 71306886
+guidance scale: 10
+style: sai-line art
+
+
+Prompt:
+
+Hyperrealistc long old basement corridor. In the foreground on the sides small robots, with spikes, spider like. 
+Old Comic style. dramatic shot.
+
+Negative:
+
+
+illuminated, static, anime, bugs

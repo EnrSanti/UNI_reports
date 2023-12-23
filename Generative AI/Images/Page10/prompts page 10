@@ -1,0 +1,35 @@
+PANEL 1:
+
+seed: 36708860
+guidance scale: 9.5
+style: sai-line art
+
+
+Prompt:
+
+Hyperrealistc back view of a person in lab coat, entering a long old basement corridor. In the foreground a small spikey robot, spider like, attacking him.
+Old Comic style. dramatic shot.
+
+Negative:
+
+illuminated, static, anime, no robot
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+PANEL 2:
+
+seed: LOST
+guidance scale: 8.5
+style: sai-line art
+
+Prompt:
+
+An engineer (Fred Ward 0.6, Bryan Cranston 0.4) with a beeding leg, leg in a booby trap. wearing lab coat. Red blood dripping from the leg on the floor. Small robot sabbing the leg.
+Old basement corridor background.
+Old Comic style, distorted, psychedelic.
+
+Negative:
+
+happy face, weird legs, doctor
+
+(This has been the most difficult panel to genereate, as it can be seen from the generated but discarded images. It has been very difficult to make the character bleeding from his leg, and I havent been able to focus the attention of the model on both the character and one small robot, several combinations were tried. For example trying to make a backview of the character, to avoid giving detail to his face, still it didn't worl)
