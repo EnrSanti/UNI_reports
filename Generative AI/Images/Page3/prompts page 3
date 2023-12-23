@@ -1,0 +1,100 @@
+PANEL 1:
+
+seed: 36143308
+guidance scale: 7
+style: sai-line art
+
+Prompt:
+
+A scientist (tom holland, 0.5)  (ryan reinolds, 0.5) in a lab coat working at a desk full of papers. Many people. espansive, old comic style, black/white
+
+Negative:
+
+Saturated colors, ugly, anime, tie, necktie, glasses, doctor,medicine
+
+ALTERNATIVES
+(many others, with slightly different prompts)
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 2:
+
+seed: 36143308
+guidance scale: 7
+style: sai-line art
+
+Prompt:
+
+Big party in a control room, drinking and celebrating engineers, hands in the air, monitor showing stocks price growing. In the background a Huge AI Machine at the center of the room. Old comic style, colored
+
+Saturated colors, ugly, anime, few details,
+chemistry
+
+ALTERNATIVES:
+
+Big party in a control room, drinking and celebrating engineers, hands in the air, monitor showing stocks price growing. In the background a (Huge AI Machine). Old comic style, colored
+
+(many others, with slightly different prompts)
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 3:
+
+seed: 36143308
+guidance scale: 7.5
+style: sai-line art
+
+Prompt:
+
+Hyper realistic picture of people rebelling. Crowd assaulting senate, protest with signs. shaman in foreground. Dramatic cinematic light, old comic style, colored
+
+Negative:
+
+Saturated colors
+
+ALTERNATIVES:
+
+(many others, with slightly different prompts)
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 4:
+
+seed: 36143308
+guidance scale: 7.5
+style: sai-line art
+
+Prompt:
+
+A man (tom holland, 0.5)  (ryan reinolds, 0.5) in a lab coat working at a desk full of papers, really worried. Crowded office background. espansive, old comic style, colored
+
+
+Negative:
+
+Saturated colors, ugly, anime, tie, necktie, glasses, doctor, medicine
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 5:
+
+seed: 36143308
+guidance scale: 8.5
+style: sai-line art
+
+Prompt:
+
+A man (tom holland, 0.5)  (ryan reinolds, 0.5) in a lab coat working at a desk full of papers, really worried. Crowded office background. espansive, old comic style, dark colored
+
+Negative:
+
+Saturated colors, ugly, anime, tie, necktie, glasses, doctor, medicine, glasses, calm
+
+ALTERNATIVE:
+
+A man (tom holland, 0.5)  (ryan reinolds, 0.5) in a lab coat working at a desk full of papers, really worried. Crowded office background. espansive, old comic style, colored
+
+

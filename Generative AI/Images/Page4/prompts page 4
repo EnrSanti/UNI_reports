@@ -1,0 +1,72 @@
+PANEL 1:
+
+seed: 36143308
+guidance scale: 8.5
+style: sai-line art
+
+Prompt:
+
+(hyper-realistic) engineers running in an office, eyes wide open, terror expression, chaotic background. Comic style, dark light, dystopian, TERROR
+
+Negative:
+
+saturated colors, ugly, anime, calm
+
+
+ALTERNATIVES:
+
+hyperrealistic scientists running in an office, terrorized faces, screaming, Old comic style, dark light, dystopian, colored
+
+(many others, with slightly different prompts)
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 2:
+
+seed: 36143308
+guidance scale: 11
+style: sai-line art
+
+Prompt:
+
+Hyper-realsitic engineer (kevin bacon 0.4) (jon bon jovi 0.6) talking on a red emergency phone in an office. Cinematic style, Old Comic style, colored
+
+Negative:
+
+ugly, anime, sit on a chair, many buttons, keyboard, distorted hands, happy face, black phone, smiling
+
+
+ALTERNATIVES:
+
+(many others, but almost impossible draw a man pushing a red button in line art style, with other styles was quite easy)
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 3	:
+
+seed: 36143308
+guidance scale: 11.5
+style: sai-line art
+
+Prompt:
+
+Hyperrealsitc faces of FOUR engineers in a lab:
+-a man (half steve carell half michael gross).
+-a woman (half jennifer lawrence half Margaret Hamilton).
+-a man (half Bryan Cranston , half Fred Ward ).
+-a woman (half samantha cristoforetti half Rhona Mitra). 
+Cinematic lightning, Old Comic style
+
+
+Negative:
+
+saturated colors,  anime, five people, three people, chemistry
+
+
+
+
