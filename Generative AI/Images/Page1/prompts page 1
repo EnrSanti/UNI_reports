@@ -1,0 +1,68 @@
+PANEL 1:
+
+seed: 36143308
+guidance scale: 8.5
+style: sai-line art
+
+Prompt:
+
+A man (tom holland, 0.5)  (ryan reinolds, 0.5) sit next to a airplane window looking out seeing las vegas, multiple passengers around in background, cinematic lighting, expansive, old comic style
+
+Negative:
+
+Saturated colors, ugly, anime, b/w, multiple airplanes, alone, old airplane, cockpit
+
+
+ALTERNATIVES:
+
+A man <tom holland, 0.5>  <ryan reinolds, 0.5> on a ((high altitude)) airplane, looking out a window, seeing the las vegas strip, multiple passengers around in background, cinematic lighting
+
+Saturated colors, ugly, anime, b/w, multiple airplanes, alone, old airplane
+
+
+
+(and many others, with different seeds and styles)
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 2:
+
+seed: 36143308
+guidance scale: 8.5
+style: sai-line art
+
+Prompt:
+
+A man (tom holland, 0.5)  (ryan reinolds, 0.5) looking at a small town and the fields and a in the distance, cinematic lighting, expansive, old comic style, colored
+
+Negative:
+
+Saturated colors, ugly, anime, b/w
+
+ALTERNATIVES:
+
+Several little variations of the prompt were tried
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 3:
+
+seed: 36143308
+guidance scale: 8.5
+style: sai-line art
+
+Prompt:
+
+Plane landing in a busy airport in the silicon Valley. View of the cityscape on the background, Golden Gate, sunset, expansive , old comic style
+
+Negative:
+
+Saturated colors, ugly, anime
+
+ALTERNATIVES:
+
+Several alternatives with small changes for the prompt were tried
+
