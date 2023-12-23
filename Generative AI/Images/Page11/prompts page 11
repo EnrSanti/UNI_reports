@@ -1,0 +1,58 @@
+PANEL 1:
+
+seed: 17370026
+guidance scale: 8
+style: sai-line art
+
+
+Prompt:
+
+Hyperrealistic engineer woman white hair (samantha cristoforetti, 0.5) (Rhona Mitra, 0.5) in a lab coat running towards a door.
+Old basement background.
+Old comic style. 
+
+
+Negative:
+
+smiling face, purse, glasses, weird feet
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 2:
+
+seed: 17370019
+guidance scale: 7
+style: sai-line art
+
+
+Prompt:
+
+A man (Fred Ward 0.6, Bryan Cranston 0.4) screaming, in a lab coat, laying in a red pool of blood. Glasses. Old basement hall backgound. Old comic style. Drammatic
+
+
+Negative:
+
+doctor, mustaches, smiling face, man standing up
+
+Alternatives:
+Hyperrealistic engineer (Fred Ward 0.6, Bryan Cranston 0.4) on the floor in a pool of blood, wearnig a lab coat. A woman white hair (samantha cristoforetti, 0.5) (Rhona Mitra, 0.5) holding his hand. comic style. Drammatic
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 3:
+
+seed: 17370026
+guidance scale: 8
+style: sai-line art
+
+
+Prompt:
+
+Hyperrealistic woman, white hair (samantha cristoforetti, 0.5) (Rhona Mitra, 0.5) shouting in a old mobile phone. Old hall  basement background. comic style. Drammatic.
+
+
+Negative:
+
+Glasses, happy face, closed mouth

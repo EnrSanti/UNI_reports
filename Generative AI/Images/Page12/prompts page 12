@@ -1,0 +1,30 @@
+PANEL 1:
+
+seed: 59810126
+guidance scale: 8
+style: sai-line art
+
+
+Prompt:
+
+Hyperrealistic engineer (tom holland, 0.5)  (ryan reinolds, 0.5) and a woman (Marie Curie, 0.5) (Alexandra Daddario, 0.5) in a lab coat. Office background setting. Expansive, Comic style, colored.
+
+Negative:
+
+chemistry, doctor, b/w, glasses, tie, many people
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 1:
+
+seed: 56329113
+guidance scale: 8.5
+style: sai-line art
+
+Prompt:
+
+Hyperrealistic two engineers: a man (tom holland, 0.5)  (ryan reinolds, 0.5) and a woman (Marie Curie, 0.5) (Alexandra Daddario, 0.5) in a lab coat running towards an elevator. Expansive, Comic style.
+
+Negative:
+
+chemistry, doctor, glasses, tie, holding hands
