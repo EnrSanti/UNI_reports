@@ -1,0 +1,141 @@
+PANEL 1:
+
+seed: 36143308
+guidance scale: 8.5
+style: sai-line art
+
+Prompt:
+
+Hyperrealsitc backview ofFOUR engineers entering an elevator:
+-a man (half steve carell half michael gross).
+-a woman (half jennifer lawrence half Margaret Hamilton).
+-a man (half Bryan Cranston , half Fred Ward ).
+-a woman (half samantha cristoforetti half Rhona Mitra). 
+Cinematic lightning, Old Comic style
+
+
+Negative:
+
+saturated colors,  anime
+
+
+(got it as first TRY)
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 2:
+
+seed: 36143308	
+guidance scale: 10
+style: sai-line art
+
+Prompt:
+
+hyperrealistic Four (4) people, view from the back, in lab coat  Inside a closed elevator, 2 men, one of the man has white hair and 2 women.
+Old Comic style.
+
+
+Negative:
+
+three people, mirror
+
+
+
+ALTERNATIVE:
+
+10
+
+elevator suddently stopping. hyper-realistic four people inside, view from the back, no faces shown, they wear a lab coat. 2 men with glasses, 2 women. One man has white, hair both women have long hair.
+-a man (half steve carell half michael gross).
+-a woman (half jennifer lawrence half Margaret Hamilton).
+-a man (half Bryan Cranston , half Fred Ward ).
+-a woman (half samantha cristoforetti half Rhona Mitra). 
+Old Comic style.
+
+Negative:
+
+mirror, wide space, ugly, front view, five people,faces, five people
+
+(many other prompts were tried, this panel has been difficult to generate)
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 3:
+
+seed: 36143308
+guidance scale: 7.5
+style: sai-line art
+
+Prompt:
+
+Hyperrealistic elevator almost  fully closed doors with a **crowbar** in between them. Basement environment, low light. 
+Old Comic style. dark colored
+
+Negative:
+
+b/w, anime, fully closed doors, inside view, glass doors
+
+
+ALTERNATIVES:
+
+Elevator stuck, doors closed at 90% with a red crowbar in between trying to open them.  Basement environment, low light. Old Comic style.
+
+(this panel, has been very difficult to generate, I wasn't able to get a crowbar forcing the doors of an elevator, different styles were also tried, none worked)
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+PANEL 4:
+
+seed: LOST (too bad)
+guidance scale: 7.5
+style: sai-line art
+
+Prompt:
+
+Four small figures of people in the distance, view from the back in a very narrow hall, with lab coats. Two men with short hair, two women with long white hair.
+Enhanced long and narrow basement corridor. Dark colors, cinematic dim light.
+Old Comic style
+
+Negatives:
+doctor, faces, people in foreground, lit, bright environment
+
+ALTERNATIVES:
+
+Four people at the end of a long hall, with lab coats:
+-a man with glasses and a tie (half steve carell half michael gross).
+-a woman with white hair (half jennifer lawrence half Margaret Hamilton).
+-a man  with glasses and a tie (half Bryan Cranston , half Fred Ward ).
+-a woman (half samantha cristoforetti half Rhona Mitra). 
+Enhanced long and narrow basement hall background.
+Old Comic style
+
+Negatives:
+saturated colors, doctor, smiling faces, man with beard, woman with glasses, NO MANY PEOPLE, woman with dark hair
+
+
+(this panel, has been very difficult to generate, many other prompts were tried, it was also tried to generate the team of engineers exiting from the elevator)
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+PANEL 5:
+
+seed: LOST (too bad)
+guidance scale: 7.5
+style: sai-line art
+
+
+Prompt:
+
+Floor map depicting 3 underground floors connected by stairs.
+Technical drawing.
+Old wall backgound.
+Old comic style, 2D.
+
+Negatives:
+
+3D, high building, house map, old map, top down view
+
+(this panel has been difficult to generate. More complex prompts, in which "you are here dot" was indicated,  and different 'line art' styles were also tried but none actually succeded).

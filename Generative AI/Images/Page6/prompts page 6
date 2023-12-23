@@ -1,0 +1,117 @@
+PANEL 1:
+
+seed: 30379747
+guidance scale: 8.5
+style: sai-line art
+
+Prompt:
+
+Enhanced long and narrow basement corridor, dusty, with old documents and robot prototypes on the sides, messy. Dark colors, cinematic dim light. Paranoia.
+
+Old Comic style.
+
+Negative:
+
+Calm, colored, happy, clean, wide.
+
+
+(generated in the first try)
+
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+PANEL 2:
+
+seed: 30379747
+guidance scale: 8.5
+style: sai-line art
+
+Prompt:
+
+
+Long and narrow basement corridor, dusty, with old documents and robot prototypes on the sides. Dark colors, cinematic dim light. Paranoia feeling, low visibility, fog.
+Old Comic style.
+
+
+Negative:
+
+Calm, colored, happy, clean, wide.
+
+
+(as can be read from the prompt this was generated to see if the first panel could be improved, instead, I got a good second panel)
+
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+
+PANEL 3:
+
+seed: 30379747
+guidance scale: 9
+style: sai-line art
+ 
+
+Prompt: 
+
+Long and narrow basement corridor with stairs at the end robot prototypes and old computer hardware on the sides. Dark colors, cinematic dim light. Low visibility, fog.
+Old Comic style.
+
+Negative:
+
+Calm, colored, happy, clean, wide.
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+
+PANEL 4:
+
+seed: 36143309
+guidance scale: 8.5
+style: sai-line art
+ 
+
+Prompt: 
+
+
+hyperrealistic back view of FOUR engineers in a lab coat descending a small staircase in a basement. Two men with white hair, and two women.
+Low cinematic lightning, Old Comic style
+
+Negative:
+
+five people, doctor, faces, three men, lit, weird perspective
+
+(a difficult panel to generate, the model can't figure the image of people going down the stairs with the point of view from the "back", it always draw them going up).
+
+
+
+
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+
+PANEL 5:
+
+seed: 36143308
+guidance scale: 8
+style: sai-line art
+
+Prompt:
+
+Hyper-realistic face of an engineer (half steve carell half michael gross) wearing a lab coat, speaking.
+basement in background.
+Old comic style.
+
+Negative:
+
+anime, smiling face, doctor, no glasses, mustaches, beard, closed mouth
